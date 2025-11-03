@@ -1,0 +1,51 @@
+======================================================================
+HANGMAN RL AGENT - FINAL EVALUATION REPORT
+======================================================================
+
+OVERALL STATISTICS
+----------------------------------------------------------------------
+Total games played: 2000
+Games won: 508
+Games lost: 1492
+Success Rate: 25.40%
+
+GUESSING STATISTICS
+----------------------------------------------------------------------
+Total Wrong Guesses: 10823
+Total Repeated Guesses: 0
+Average Wrong Guesses per game: 5.41
+Average Repeated Guesses per game: 0.00
+
+FINAL SCORE
+----------------------------------------------------------------------
+Formula: (Success Rate × 2000) - (Total Wrong × 5) - (Total Repeated × 2)
+
+Success Rate × 2000 = 0.2540 × 2000 = 508.00
+Total Wrong × 5 = 10823 × 5 = 54115.00
+Total Repeated × 2 = 0 × 2 = 0.00
+
+FINAL SCORE: -53607.00
+
+
+SAMPLE OF FAILED GAMES (first 20)
+----------------------------------------------------------------------
+1. Word: 'JANET' (length 5) - Wrong: 6, Repeated: 0
+2. Word: 'DENTISTICAL' (length 11) - Wrong: 6, Repeated: 0
+3. Word: 'TROVELESS' (length 9) - Wrong: 6, Repeated: 0
+4. Word: 'UNNOTIFY' (length 8) - Wrong: 6, Repeated: 0
+5. Word: 'PREAFFILIATION' (length 14) - Wrong: 6, Repeated: 0
+6. Word: 'VERATRINIZE' (length 11) - Wrong: 6, Repeated: 0
+7. Word: 'PROTECTION' (length 10) - Wrong: 6, Repeated: 0
+8. Word: 'TRILOCULATE' (length 11) - Wrong: 6, Repeated: 0
+9. Word: 'TRUSTEE' (length 7) - Wrong: 6, Repeated: 0
+10. Word: 'WUSP' (length 4) - Wrong: 6, Repeated: 0
+11. Word: 'SHAWLED' (length 7) - Wrong: 6, Repeated: 0
+12. Word: 'ALWAYS' (length 6) - Wrong: 6, Repeated: 0
+13. Word: 'GUATO' (length 5) - Wrong: 6, Repeated: 0
+14. Word: 'UNDAZZLING' (length 10) - Wrong: 6, Repeated: 0
+15. Word: 'TIMBROMANIAC' (length 12) - Wrong: 6, Repeated: 0
+16. Word: 'UNSTRAIGHTFORWARD' (length 17) - Wrong: 6, Repeated: 0
+17. Word: 'BODLEIAN' (length 8) - Wrong: 6, Repeated: 0
+18. Word: 'ATREBATES' (length 9) - Wrong: 6, Repeated: 0
+19. Word: 'DRATE' (length 5) - Wrong: 6, Repeated: 0
+20. Word: 'JOHNIN' (length 6) - Wrong: 6, Repeated: 0
